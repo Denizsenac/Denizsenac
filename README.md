@@ -44,9 +44,9 @@ I am a passionate software developer with a strong focus on algorithms, data str
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=denizsenac&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denizsenac&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizsenac&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
 </div>
-
 ---
 
 ## 📫 Let's Connect
