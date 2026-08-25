@@ -30,7 +30,6 @@ I am a passionate software developer with a strong focus on algorithms, data str
 - 🤖 Working on technical documentation for **Artificial Intelligence** development projects.
 - 👨‍🏫 Experienced in **freelance mentoring** and educational tutoring.
 - 🌱 Currently diving deeper into data analysis with **Pandas** and building dynamic data pipelines using APIs.
-- ⚡ **Fun fact:** Outside of coding, I enjoy story-driven indie games, playing the electro guitar, and crafting amigurumi figures!
 
 ---
 
