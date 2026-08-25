@@ -39,13 +39,9 @@ I am a passionate software developer with a strong focus on algorithms, data str
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,eclipse,jupyter,postman&theme=dark" />
 </div>
 
 ---
