@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=302b63,24243e,0f0c29&height=250&section=header&text=Deniz%20Sena%20Çiçek&fontSize=50&fontColor=b392ac&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20Data%20Engineering&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=302b63,24243e,0f0c29&height=250&section=header&text=Deniz%20Sena%20%C3%87i%C3%A7ek&fontSize=50&fontColor=b392ac&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20Data%20Engineering&descAlignY=55&descSize=20" width="100%" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+Documentation;Freelance+Mentor+%26+Tutor;Java+%7C+C%23+%7C+Python+Developer" alt="Typing SVG" /></a>
 
@@ -41,7 +41,7 @@ I am a passionate software developer with a strong focus on algorithms, data str
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,eclipse,postman&theme=dark" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ Various C# and Java projects focusing on matrix operations, sequential logic loo
 `#Mentorship` `#CurriculumDesign` `#Communication`
 
 **Press & Media Coordinator**  
-*Istanbul Peitho Debate *  
+*Istanbul Peitho Debate*  
 `Jul 2026 - Aug 2026`  
 *   Managed official communications, PR materials, and digital outreach for large-scale organizational festivals.
 *   Coordinated volunteer efforts and compiled comprehensive teamwork documentation.  
@@ -127,24 +127,20 @@ Various C# and Java projects focusing on matrix operations, sequential logic loo
 
 ---
 
+<!-- GITHUB STATS VE YILAN ANİMASYONU DÜZELENE KADAR GİZLENDİ 
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denizsenac&show_icons=true&theme=tokyonight&hide_border=true&title_color=9d4edd&icon_color=7b2cbf&text_color=c8d6e5&bg_color=0f0c29&cache_seconds=86400" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denizsenac&layout=compact&theme=tokyonight&hide_border=true&title_color=9d4edd&text_color=c8d6e5&bg_color=0f0c29&cache_seconds=86400" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denizsenac&show_icons=true&theme=tokyonight&hide_border=true&title_color=9d4edd&icon_color=7b2cbf&text_color=c8d6e5&bg_color=0f0c29&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizsenac&layout=compact&theme=tokyonight&hide_border=true&title_color=9d4edd&text_color=c8d6e5&bg_color=0f0c29&cache_seconds=86400" height="195" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Denizsenac&theme=tokyonight&hide_border=true&title_color=9d4edd&text_color=c8d6e5&background=0f0c29" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=denizsenac&theme=tokyonight&hide_border=true&title_color=9d4edd&text_color=c8d6e5&background=0f0c29" height="195" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Denizsenac/Denizsenac/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
+-->
 
 ## 📫 Connect
 
