@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=302b63,24243e,0f0c29&height=250&section=header&text=Deniz%20Sena%20%C3%87i%C3%A7ek&fontSize=50&fontColor=b392ac&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20Data%20Engineering&descAlignY=55&descSize=20" width="100%" />
+  <h1>Deniz Sena Çiçek</h1>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+Documentation;Freelance+Mentor+%26+Tutor;Java+%7C+C%23+%7C+Python+Developer" alt="Typing SVG" /></a>
 
@@ -154,12 +154,4 @@ Various C# and Java projects focusing on matrix operations, sequential logic loo
   <a href="https://github.com/Denizsenac">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0f0c29,24243e,302b63&height=100&section=footer" width="100%" />
 </div>
