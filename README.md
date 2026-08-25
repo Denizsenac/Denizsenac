@@ -9,7 +9,6 @@
 
   <br /><br />
 
-  <a href="https://github.com/Denizsenac"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-5A189A?style=for-the-badge&logo=rocket&logoColor=white" /></a>
   <a href="https://linkedin.com/in/deniz-sena-çiçek-867484387"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:denizsenacicek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-5A189A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Denizsenac"><img src="https://img.shields.io/badge/GitHub-Open_Source-5A189A?style=for-the-badge&logo=github&logoColor=white" /></a>
