@@ -116,15 +116,14 @@ Various C# and Java projects focusing on matrix operations, sequential logic loo
 *   Structured raw API outputs into machine-learning-ready Excel formats for the core engineering team.  
 `#Python` `#DataEngineering` `#APIs` `#MachineLearning` `#Documentation`
 
-**Freelance Technical Mentor & Tutor**  
-*Superprof / Independent*  
+**Freelance Technical Mentor & Tutor**    
 `May 2026 - Present`  
 *   Designed structured curriculums and pricing strategies for foundational education and logical skills.
 *   Facilitated peer-to-peer code reviews and collaborative project management best practices.  
 `#Mentorship` `#CurriculumDesign` `#Communication`
 
 **Press & Media Coordinator**  
-*Istanbul Peitho Debate & Selim Nevzat Şahin Alumni Assoc.*  
+*Istanbul Peitho Debate *  
 `Jul 2026 - Aug 2026`  
 *   Managed official communications, PR materials, and digital outreach for large-scale organizational festivals.
 *   Coordinated volunteer efforts and compiled comprehensive teamwork documentation.  
