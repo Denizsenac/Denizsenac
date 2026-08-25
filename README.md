@@ -6,7 +6,6 @@
   <br />
 
   <img src="https://img.shields.io/badge/B.Sc._Computer_Engineering-Dokuz_Eyl%C3%BCl_University-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Gaziantep,_T%C3%BCrkiye-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
   <br /><br />
 
