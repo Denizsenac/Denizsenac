@@ -41,7 +41,7 @@ I am a passionate software developer with a strong focus on algorithms, data str
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,eclipse,jupyter,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,eclipse&theme=dark" />
 </div>
 
 ---
