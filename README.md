@@ -16,7 +16,6 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=Denizsenac&label=Profile%20Views&color=7B2CBF&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Denizsenac?label=Followers&style=flat-square&color=7B2CBF" />
   <img src="https://img.shields.io/github/stars/Denizsenac?label=Stars&style=flat-square&color=7B2CBF" />
 </div>
