@@ -16,9 +16,6 @@
 
   <br /><br />
 
-  <img src="https://img.shields.io/github/followers/Denizsenac?label=Followers&style=flat-square&color=7B2CBF" />
-  <img src="https://img.shields.io/github/stars/Denizsenac?label=Stars&style=flat-square&color=7B2CBF" />
-</div>
 
 ---
 
