@@ -107,7 +107,7 @@ Various C# and Java projects focusing on matrix operations, sequential logic loo
 `#Python` `#DataEngineering` `#APIs` `#MachineLearning` `#Documentation`
 
 **Freelance Technical Mentor & Tutor**    
-`May 2026 - Present`  
+`Sep 2025 - Present`  
 *   Designed structured curriculums and pricing strategies for foundational education and logical skills.
 *   Facilitated peer-to-peer code reviews and collaborative project management best practices.  
 `#Mentorship` `#CurriculumDesign` `#Communication`
